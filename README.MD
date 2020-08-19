@@ -5,23 +5,23 @@ To try making programming logic easier to be understood, the essays(ZH-TW) in my
 - :page_with_curl:[My Medium](https://medium.com/@BunnyPlayGG)
 
 ## :computer: Programing skill
-- **Web Development**
-  - **Frontend**
+- :point_right: **Web Development**
+  - :rainbow: **Frontend**
     - **HTML**
     - **CSS**, SASS
     - **Javascript(ES7)**
     - **JQuery**
-    - **React.js**, Redux
+    - :electron: **React.js**, Redux
     - Typescript
     - Vue.js
-  - Backend
+  - :postbox: Backend
     - **Node.js(Express)**
     - Golang
     
-- Mobile App Development
+- :iphone: Mobile App Development
   - Android Studio(Java)
   
-- Software Development
+- :hammer: Software Development
   - C/C++(Qt5)
   - Python
   - Java
